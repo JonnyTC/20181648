@@ -1,3 +1,4 @@
+#！/usr/bin/env python
 from wsgiref.simple_server import make_server
 
 def application(environ, start_response):
