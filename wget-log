@@ -1,0 +1,21 @@
+--2022-06-12 22:02:19--  https://github.com/sheayun-kmu/swp1/raw/master/wsgi/graph.py
+正在解析主机 github.com (github.com)... 20.205.243.166
+正在连接 github.com (github.com)|20.205.243.166|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 没有接收到数据。
+重试中。
+
+--2022-06-12 22:04:19--  (尝试次数： 2)  https://github.com/sheayun-kmu/swp1/raw/master/wsgi/graph.py
+正在连接 github.com (github.com)|20.205.243.166|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 302 Found
+位置：https://raw.githubusercontent.com/sheayun-kmu/swp1/master/wsgi/graph.py [跟随至新的 URL]
+--2022-06-12 22:04:20--  https://raw.githubusercontent.com/sheayun-kmu/swp1/master/wsgi/graph.py
+正在解析主机 raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.110.133, 185.199.108.133, ...
+正在连接 raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度： 1158 (1.1K) [text/plain]
+正在保存至: “graph.py”
+
+     0K .                                                     100% 26.0M=0s
+
+2022-06-12 22:04:21 (26.0 MB/s) - 已保存 “graph.py” [1158/1158])
+
